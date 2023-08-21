@@ -8,3 +8,5 @@ senha varchar(20)
 );
 
 insert into LOGIN(usuario, senha) values('admin','1234567');
+
+
